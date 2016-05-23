@@ -19,7 +19,7 @@ Blur & Dilation: Applied using OpenCV
 ------------------
 Available face contour points: Lower face<br>
 Approximated points (using the available points with Elliptical Approximation): Upper face<br>
-Used Skin Detection Mask to avoid interference with hair
+Used Skin Detection Mask to avoid interference with hair<br>
 Blur & Dilation: Applied using OpenCV
 
 <strong>INPUT</strong><br><br>
